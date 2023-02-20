@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>fattureincloud</name>
+            <displayName><![CDATA[Fatture In Cloud]]></displayName>
+            <version><![CDATA[2.1.2]]></version>
+            <description><![CDATA[Collega il tuo negozio Prestashop al tuo account FattureInCloud! Sincronizza gli ordini, le anagrafiche ed emetti fatture!]]></description>
+            <author><![CDATA[Cristian]]></author>
+            <tab><![CDATA[billing_invoicing]]></tab>
+	<confirmUninstall>Sicuro di voler disinstallare il modulo FattureInCloud?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

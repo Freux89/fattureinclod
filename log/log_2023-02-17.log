@@ -1,0 +1,217 @@
+[2023/02/17 12:31:08] INFO - Creazione Fattura: 61105
+[2023/02/17 12:31:09] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 12:31:10] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 12:31:10] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 12:31:13] INFO - Fattura creata: #816/R/2023
+[2023/02/17 12:31:13] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 08:25:07] INFO - Creazione Fattura: 61107
+[2023/02/17 08:25:08] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 08:25:08] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 08:25:09] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 08:25:12] INFO - Fattura creata: #817/R/2023
+[2023/02/17 08:25:13] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 08:40:39] INFO - Creazione Fattura: 61108
+[2023/02/17 08:40:40] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 08:40:41] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 08:40:41] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 08:40:43] INFO - Fattura creata: #843/F/2023
+[2023/02/17 09:16:55] INFO - Creazione Fattura: 61109
+[2023/02/17 09:16:56] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:16:57] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:16:57] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:16:59] INFO - Fattura creata: #844/F/2023
+[2023/02/17 09:41:11] INFO - Creazione Fattura: 61111
+[2023/02/17 09:41:12] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:41:12] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:41:13] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:41:15] INFO - Fattura creata: #845/F/2023
+[2023/02/17 09:57:00] INFO - Creazione Fattura: 61112
+[2023/02/17 09:57:01] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:57:01] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:57:02] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 09:57:04] INFO - Fattura creata: #846/F/2023
+[2023/02/17 10:10:53] INFO - Creazione Fattura: 59732
+[2023/02/17 10:10:54] INFO - Creazione fattura interrotta: Già esiste una fattura per questo ordine: {"data":{"id":260873222,"type":"invoice","year":2023,"numeration":"\/F","subject":"Ordine #MMBICJYQL","visible_subject":"Ordine #MMBICJYQL","rc_center":"inventivashop","amount_rivalsa":0,"amount_rivalsa_taxable":161.9,"amount_global_cassa_taxable":161.9,"amount_cassa":0,"amount_cassa_taxable":161.9,"amount_cassa2":0,"amount_cassa2_taxable":161.9,"amount_withholding_tax":0,"amount_withholding_tax_taxable":161.9,"amount_other_withholding_tax":0,"amount_enasarco_taxable":0,"amount_other_withholding_tax_taxable":161.9,"ei_cassa_type":null,"ei_cassa2_type":null,"ei_withholding_tax_causal":null,"ei_other_withholding_tax_type":null,"ei_other_withholding_tax_causal":null,"stamp_duty":0,"use_gross_prices":false,"e_invoice":true,"delivery_note":false,"accompanying_invoice":false,"amount_net":161.9,"amount_vat":35.62,"amount_gross":188.98,"amount_due_discount":-8.54,"h_margins":15,"v_margins":16,"show_payment_method":true,"show_payments":true,"show_totals":"all","show_paypal_button":false,"show_notification_button":false,"is_marked":false,"created_at":"2023-02-08 09:57:03","updated_at":"2023-02-16 09:30:38","entity":{"name":"Biomax SpA","vat_number":"02046830242","tax_code":"02046830242","address_street":"VIA ZAMENHOF, 615","address_postal_code":"36100","address_city":"Vicenza","address_province":"VI","address_extra":"","country":"Italia","certified_email":"biomax@pec.it","ei_code":"ZBGTBLC","entity_type":"client","type":null,"default_payment_terms":0,"default_payment_terms_type":"standard","shipping_address":"","default_vat":null,"default_payment_method":null,"bank_name":"","bank_iban":"","default_discount":0,"discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"original_name":null},"date":"2023-02-08","number":652,"currency":{"id":"EUR","exchange_rate":"1.00000","symbol":"\u20ac"},"language":{"code":"it","name":"Italiano"},"notes":"","payment_method":{"id":null,"name":"Bank wire","details":[{"title":"","description":""},{"title":"","description":""},{"title":"","description":""},{"title":"","description":""},{"title":"","description":""}]},"use_split_payment":false,"merged_in":null,"original_document":null,"items_list":[{"product_id":null,"code":"","name":"Targa plexiglass misura personalizzata","measure":"","category":"","id":808758114,"apply_withholding_taxes":false,"discount":18,"discount_highlight":false,"in_dn":false,"qty":6,"net_price":31.48323,"vat":{"id":0,"value":22,"description":""},"stock":true,"description":"","gross_price":38.40954,"not_taxable":false,"ei_raw":null},{"product_id":null,"code":"","name":"Coupon utilizzati","measure":"","category":"","id":808758115,"apply_withholding_taxes":false,"discount":0,"discount_highlight":false,"in_dn":false,"qty":1,"net_price":0,"vat":{"id":6,"value":0,"description":""},"stock":true,"description":"Oggi Promo in corso\n\nIl valore dei coupon utilizzati \u00e8 riportato tra i totali alla voce sconto.","gross_price":0,"not_taxable":false,"ei_raw":null},{"product_id":null,"code":"","name":"Spedizione: GLS\/TNT STANDARD","measure":"","category":"","id":808758116,"apply_withholding_taxes":false,"discount":0,"discount_highlight":false,"in_dn":false,"qty":1,"net_price":7,"vat":{"id":0,"value":22,"description":""},"stock":true,"description":"","gross_price":8.54,"not_taxable":false,"ei_raw":null}],"payments_list":[{"amount":188.98,"due_date":"2023-01-11","paid_date":"2023-02-08","id":212407987,"forfettari_revenue":188.98,"payment_terms":{"days":0,"type":"standard"},"status":"paid","payment_account":{"id":754084,"name":"Bank wire","virtual":false},"ei_raw":null}],"extra_data":null,"rivalsa":0,"rivalsa_taxable":100,"cassa":0,"cassa2":0,"global_cassa_taxable":100,"cassa_taxable":100,"cassa2_taxable":100,"withholding_tax":0,"withholding_tax_taxable":100,"other_withholding_tax":0,"other_withholding_tax_taxable":100,"seen_date":null,"next_due_date":null,"template":{"id":61357,"name":"Light Smoke Personalizzato "},"show_tspay_button":false,"url":"https:\/\/compute.fattureincloud.it\/doc\/tn6qbjghsvj27dbimqx6u73hg45l792r.pdf","ei_data":{"vat_kind":null,"original_document_type":null,"od_number":"","od_date":null,"cig":"","cup":"","payment_method":"MP05","bank_name":"","bank_iban":"","bank_beneficiary":""},"ei_raw":null,"ei_ts_data":{"status":0,"id":null,"info":null},"ei_status":"sent","locked":true,"has_ts_pay_pending_payment":false,"is_first_e_invoice":false}}
+[2023/02/17 10:11:35] INFO - Creazione Fattura: 61113
+[2023/02/17 10:11:36] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:11:37] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:11:37] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:11:39] INFO - Fattura creata: #847/F/2023
+[2023/02/17 10:14:24] INFO - Creazione Fattura: 60802
+[2023/02/17 10:14:25] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:14:26] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:14:26] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:14:28] INFO - Fattura creata: #848/F/2023
+[2023/02/17 10:16:51] INFO - Creazione Fattura: 60817
+[2023/02/17 10:16:53] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:16:53] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:16:54] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:16:55] INFO - Fattura creata: #849/F/2023
+[2023/02/17 10:16:56] ERROR - Verifica XML fallita: {"error":{"message":"Validation step 1","validation_result":{"xml_errors":["L'indirizzo PEC deve avere un formato valido."]}}}
+[2023/02/17 10:27:08] INFO - Creazione Fattura: 60996
+[2023/02/17 10:27:11] INFO - Fattura creata: #850/F/2023
+[2023/02/17 10:29:30] INFO - Creazione Fattura: 60996
+[2023/02/17 10:29:32] INFO - Fattura creata: #850/F/2023
+[2023/02/17 10:33:56] INFO - Creazione Fattura: 61114
+[2023/02/17 10:33:57] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:33:58] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:33:58] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:34:00] INFO - Fattura creata: #819/R/2023
+[2023/02/17 10:34:01] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 10:34:12] INFO - Creazione Fattura: 61115
+[2023/02/17 10:34:13] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:34:14] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:34:14] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:34:17] INFO - Fattura creata: #820/R/2023
+[2023/02/17 10:34:17] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 10:42:47] INFO - Creazione Fattura: 61116
+[2023/02/17 10:42:48] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:42:49] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:42:49] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 10:42:51] INFO - Fattura creata: #850/F/2023
+[2023/02/17 11:17:21] INFO - Creazione Fattura: 61117
+[2023/02/17 11:17:22] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:17:22] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:17:22] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:17:24] INFO - Fattura creata: #851/F/2023
+[2023/02/17 11:20:23] INFO - Creazione Fattura: 61118
+[2023/02/17 11:20:24] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:20:24] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:20:25] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:20:27] INFO - Fattura creata: #821/R/2023
+[2023/02/17 11:20:27] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 11:24:58] INFO - Creazione Fattura: 61119
+[2023/02/17 11:24:59] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:24:59] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:25:00] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:25:03] INFO - Fattura creata: #852/F/2023
+[2023/02/17 11:33:09] INFO - Creazione Fattura: 61120
+[2023/02/17 11:33:11] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:33:11] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:33:11] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:33:13] INFO - Fattura creata: #853/F/2023
+[2023/02/17 11:43:29] INFO - Creazione Fattura: 61021
+[2023/02/17 11:43:30] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:43:31] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:43:31] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:43:33] INFO - Fattura creata: #854/F/2023
+[2023/02/17 11:43:33] ERROR - Verifica XML fallita: {"error":{"message":"Validation step 1","validation_result":{"xml_errors":["L'indirizzo PEC deve avere un formato valido."]}}}
+[2023/02/17 11:44:03] INFO - Creazione Fattura: 61035
+[2023/02/17 11:44:04] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:05] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:05] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:07] INFO - Fattura creata: #822/R/2023
+[2023/02/17 11:44:08] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 11:44:20] INFO - Creazione Fattura: 61087
+[2023/02/17 11:44:21] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:21] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:22] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:23] INFO - Fattura creata: #855/F/2023
+[2023/02/17 11:44:56] INFO - Creazione Fattura: 61076
+[2023/02/17 11:44:57] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:58] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:44:58] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:45:00] INFO - Fattura creata: #856/F/2023
+[2023/02/17 11:45:20] INFO - Creazione Fattura: 61049
+[2023/02/17 11:45:21] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:45:21] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:45:21] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:45:22] INFO - Fattura creata: #857/F/2023
+[2023/02/17 11:49:49] INFO - Creazione Fattura: 61121
+[2023/02/17 11:49:50] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:49:50] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:49:51] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/17 11:49:52] INFO - Fattura creata: #858/F/2023
+[2023/02/17 12:00:42] INFO - Creazione Fattura: 61122
+[2023/02/17 12:00:48] INFO - Cliente creato: false
+[2023/02/17 12:00:51] INFO: Conto di pagamento creato: #
+[2023/02/17 12:00:53] ERROR - Fattura non creata: false - {"device_code":false,"access_token":"a\/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWYiOiIwM3lFTkMxYlJBbGxLSjhmUDdtZXdqWGZxQ25lM2NnYSJ9.16VH3EBgabnrWY2a_iAuBKs1HyADRL-taCMpsY_ib_0","refresh_token":"r\/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWYiOiIwM3lFTkMxYlJBbGxLSjhmUDdtZXdqWGZxQ25lM2NnYSJ9.16VH3EBgabnrWY2a_iAuBKs1HyADRL-taCMpsY_ib_0","company_id":"806748"} - {"data":{"currency":{"id":"EUR","exchange_rate":"1.00000"},"entity":{"name":"DELFANTI S.P.A.","address_street":"STRADA STATALE 462","address_postal_code":"29010","address_city":"MONTICELLI D'ONGINA","address_province":"PC","country_iso":"IT","shipping_address":"","tax_code":"01425700331","vat_number":"01425700331","code":"PS-69979 - 66285","mail":"attilia@delfanti.com","phone":"0523815811","certified_email":"","ei_code":"5RUO82D","id":null},"items_list":[{"code":"","name":"Targa plexiglass Quadrata","qty":"1","description":"","gross_price":50.1176,"vat":{"id":0}},{"code":"","name":"Verifica Professionale","qty":"1","description":"","gross_price":6.1,"vat":{"id":0}},{"name":"Spedizione: GLS\/TNT STANDARD","gross_price":"8.54","vat":{"id":0}}],"visible_subject":"Ordine #PFJPKMKPN","subject":"Ordine #PFJPKMKPN","payments_list":[{"due_date":"2023-02-17","paid_date":"2023-02-17","status":"paid","payment_account":{"id":null}}],"payment_method":{"name":"PayPal"},"show_payment":false,"show_payment_method":true,"rc_center":"inventivashop","use_gross_prices":true,"e_invoice":true,"ei_data":{"payment_method":"MP08"},"notes":"Payment accepted.","type":"invoice","numeration":"\/F"},"options":{"fix_payments":true}}
+[2023/02/17 12:04:57] INFO - Creazione Fattura: 60996
+[2023/02/17 12:05:01] INFO - Fattura creata: #860/F/2023
+[2023/02/17 12:17:57] INFO - Creazione Fattura: 61123
+[2023/02/17 12:18:02] INFO - Cliente creato: {"data":{"id":67987422,"code":"PS-13086","name":"Dottor Dario Michele Gragnani","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"03099660486","tax_code":"GRGDMC55B03G713W","address_street":"via Ponte Rosso 1","address_postal_code":"50129","address_city":"Firenze","address_province":"FI","address_extra":"","country":"Italia","email":"","certified_email":"dariogragnani@gmail.com","phone":"055 495164","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 12:18:02","updated_at":"2023-02-17 12:18:02","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"","e_invoice":false,"ei_code":"JC7P1DW","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 12:18:04] INFO - Fattura creata: #860/F/2023
+[2023/02/17 12:25:24] INFO - Creazione Fattura: 61124
+[2023/02/17 12:25:29] INFO - Fattura creata: #823/R/2023
+[2023/02/17 12:25:30] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 12:51:17] INFO - Creazione Fattura: 61126
+[2023/02/17 12:51:21] INFO - Cliente creato: {"data":{"id":67991634,"code":"PS-69983","name":"Genmaken Srl","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"12028520968","tax_code":"12028520968","address_street":"Corso Buenos Aires 64","address_postal_code":"20124","address_city":"Milano","address_province":"MI","address_extra":"","country":"Italia","email":"","certified_email":"genamkensrl@legalmail.it","phone":"3453418428","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 12:51:21","updated_at":"2023-02-17 12:51:21","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"Viale Arturo Toscanini 28 \r\n20037 Paderno Dugnano  \r\nItaly","e_invoice":false,"ei_code":"M5UXCR1","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 12:51:23] INFO - Fattura creata: #861/F/2023
+[2023/02/17 01:11:08] INFO - Creazione Fattura: 61127
+[2023/02/17 01:11:12] INFO - Cliente creato: {"data":{"id":67992418,"code":"PS-69984","name":"Le Cars di Ferrante Gianluca","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"12707050014","tax_code":"12707050014","address_street":"Via Vittorio Alfieri 41\/a","address_postal_code":"10045","address_city":"Piossasco","address_province":"TO","address_extra":"","country":"Italia","email":"","certified_email":"lecars@legalmail.it","phone":"0115858769","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 13:11:12","updated_at":"2023-02-17 13:11:12","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"Via Monti 6\r\n10095 Grugliasco \r\nItaly","e_invoice":false,"ei_code":"USAL8PV","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 01:11:15] INFO - Fattura creata: #862/F/2023
+[2023/02/17 01:25:40] INFO - Creazione Fattura: 61128
+[2023/02/17 01:25:44] INFO - Cliente creato: {"data":{"id":67992820,"code":"PS-69987","name":"Loredano Carenini","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"","tax_code":"crnldn63t01e507j","address_street":"via s.s.Cosma e Damiano  48","address_postal_code":"23801","address_city":"Calolziocorte (LC)","address_province":"LC","address_extra":"","country":"Italia","email":"","certified_email":"","phone":"+393409359016","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 13:25:44","updated_at":"2023-02-17 13:25:44","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"","e_invoice":false,"ei_code":"","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 01:25:47] INFO - Fattura creata: #824/R/2023
+[2023/02/17 01:25:47] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 01:46:28] INFO - Creazione Fattura: 61129
+[2023/02/17 01:46:32] INFO - Cliente creato: {"data":{"id":67993534,"code":"PS-32216","name":"ALMA PROPERTY SRL","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"09371520967","tax_code":"09371520967","address_street":"Via G. Washington 59","address_postal_code":"20146","address_city":"Milano","address_province":"MI","address_extra":"","country":"Italia","email":"","certified_email":"almaproperty@pec.it","phone":"335285450","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 13:46:32","updated_at":"2023-02-17 13:46:32","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"ALMA PROPERTY SRL\r\nVia Bartolomeo D'alviano 24\r\n20146 Milano \r\nItaly","e_invoice":false,"ei_code":"M5UXCR1","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 01:46:35] INFO - Fattura creata: #863/F/2023
+[2023/02/17 02:29:25] INFO - Creazione Fattura: 61130
+[2023/02/17 02:29:29] INFO - Cliente creato: {"data":{"id":67995042,"code":"PS-69989","name":"Ernesto  Codeluppi","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"","tax_code":"Cdlrst79b02c632m","address_street":"Via matteuzzo 22 b","address_postal_code":"00033","address_city":"Cave","address_province":"RM","address_extra":"","country":"Italia","email":"","certified_email":"","phone":"3517010411","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 14:29:29","updated_at":"2023-02-17 14:29:29","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"","e_invoice":false,"ei_code":"","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 02:29:32] INFO - Fattura creata: #825/R/2023
+[2023/02/17 02:29:33] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 02:46:40] INFO - Creazione Fattura: 61131
+[2023/02/17 02:46:43] INFO - Cliente creato: {"data":{"id":67995873,"code":"PS-69990","name":"Egidio PINI","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"","tax_code":"PNIGDE65P09C933Z","address_street":"Via ROCCOLO 3 A","address_postal_code":"22077","address_city":"OLGIATE COMASCO","address_province":"CO","address_extra":"","country":"Italia","email":"","certified_email":"","phone":"3477327553","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 14:46:43","updated_at":"2023-02-17 14:46:43","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"","e_invoice":false,"ei_code":"","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 02:46:47] INFO - Fattura creata: #826/R/2023
+[2023/02/17 02:46:47] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 02:59:12] INFO - Creazione Fattura: 61132
+[2023/02/17 02:59:15] INFO - Cliente creato: {"data":{"id":67996534,"code":"PS-55683","name":"Andrea rizzo","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"","tax_code":"RZZNDR73L01L378F","address_street":"presso: DOMO EP EUROPE, VIA LINFANO 18","address_postal_code":"38062","address_city":"ARCO","address_province":"TN","address_extra":"","country":"Italia","email":"","certified_email":"","phone":"00393484501200","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 14:59:15","updated_at":"2023-02-17 14:59:15","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"","e_invoice":false,"ei_code":"","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 02:59:18] INFO - Fattura creata: #827/R/2023
+[2023/02/17 02:59:18] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 03:19:20] INFO - Creazione Fattura: 61133
+[2023/02/17 03:19:26] INFO - Cliente creato: {"data":{"id":67997554,"code":"PS-69956","name":"BONOMI SRL","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"12581381006","tax_code":"12581381006","address_street":"STRADA DEI PRATI GRANDI N 3","address_postal_code":"00063","address_city":"CAMPAGNANO DI ROMA","address_province":"RM","address_extra":"","country":"Italia","email":"","certified_email":"SRL.BONOMI@LEGALMAIL.IT","phone":"","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 15:19:26","updated_at":"2023-02-17 15:19:26","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"","e_invoice":false,"ei_code":"M5UXCR1","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 03:19:28] INFO - Fattura creata: #864/F/2023
+[2023/02/17 03:28:43] INFO - Creazione Fattura: 61134
+[2023/02/17 03:28:46] INFO - Cliente creato: {"data":{"id":67998068,"code":"PS-69993","name":"THEMA S.r.l.","type":null,"first_name":"","last_name":"","contact_person":"","vat_number":"01891100701","tax_code":"01891100701","address_street":"Via Molise 20","address_postal_code":"86042","address_city":"Campomarino","address_province":"CB","address_extra":"","country":"Italia","email":"","certified_email":"thema.legal@pec.it","phone":"3484631308","fax":"","notes":"","bank_iban":"","created_at":"2023-02-17 15:28:46","updated_at":"2023-02-17 15:28:46","default_payment_terms":0,"default_payment_terms_type":"standard","bank_name":"","bank_swift_code":"","shipping_address":"Via Giacosa 1\r\n10045 Piossasco \r\nItaly","e_invoice":false,"ei_code":"","discount_highlight":false,"has_intent_declaration":false,"intent_declaration_protocol_number":null,"intent_declaration_protocol_date":null,"country_iso":"IT","atoka_show":true,"default_vat":null,"default_payment_method":null,"default_discount":0}}
+[2023/02/17 03:28:49] INFO - Fattura creata: #865/F/2023
+[2023/02/17 03:50:43] INFO - Creazione Fattura: 61135
+[2023/02/17 03:50:49] INFO - Fattura creata: #828/R/2023
+[2023/02/17 03:50:49] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 03:55:44] INFO - Creazione Fattura: 61136
+[2023/02/17 03:55:50] INFO - Fattura creata: #866/F/2023
+[2023/02/17 04:41:22] INFO - Creazione Fattura: 61137
+[2023/02/17 04:41:28] INFO - Fattura creata: #829/R/2023
+[2023/02/17 04:41:28] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 05:02:14] INFO - Creazione Fattura: 60996
+[2023/02/17 05:02:18] INFO - Fattura creata: #867/F/2023
+[2023/02/17 05:30:18] INFO - Creazione Fattura: 61138
+[2023/02/17 05:30:24] INFO - Fattura creata: #867/F/2023
+[2023/02/17 05:30:25] ERROR - Verifica XML fallita: {"error":{"message":"Validation step 1","validation_result":{"xml_errors":["Il Codice Fiscale del cliente non \u00e8 valido."]}}}
+[2023/02/17 05:46:11] INFO - Creazione Fattura: 61139
+[2023/02/17 05:46:17] INFO - Fattura creata: #830/R/2023
+[2023/02/17 05:46:17] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 06:07:30] INFO - Creazione Fattura: 61140
+[2023/02/17 06:07:37] INFO - Fattura creata: #868/F/2023
+[2023/02/17 07:18:37] INFO - Creazione Fattura: 61142
+[2023/02/17 07:18:43] INFO - Fattura creata: #831/R/2023
+[2023/02/17 07:18:43] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 07:27:00] INFO - Creazione Fattura: 61143
+[2023/02/17 07:27:07] INFO - Fattura creata: #869/F/2023
+[2023/02/17 07:49:46] INFO - Creazione Fattura: 61144
+[2023/02/17 07:49:52] INFO - Fattura creata: #870/F/2023
+[2023/02/17 07:54:55] INFO - Creazione Fattura: 61145
+[2023/02/17 07:55:00] INFO - Fattura creata: #832/R/2023
+[2023/02/17 07:55:00] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 08:13:11] INFO - Creazione Fattura: 61146
+[2023/02/17 08:13:17] INFO - Fattura creata: #833/R/2023
+[2023/02/17 08:13:17] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 08:13:59] INFO - Creazione Fattura: 61147
+[2023/02/17 08:14:03] INFO - Fattura creata: #871/F/2023
+[2023/02/17 08:23:47] INFO - Creazione Fattura: 61148
+[2023/02/17 08:23:53] INFO - Fattura creata: #834/R/2023
+[2023/02/17 08:23:53] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 09:28:57] INFO - Creazione Fattura: 61149
+[2023/02/17 09:29:04] INFO - Fattura creata: #835/R/2023
+[2023/02/17 09:29:05] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 10:14:20] INFO - Creazione Fattura: 61150
+[2023/02/17 10:14:26] INFO - Fattura creata: #872/F/2023
+[2023/02/17 10:14:26] ERROR - Verifica XML fallita: {"error":{"message":"Validation step 1","validation_result":{"xml_errors":["L'indirizzo PEC deve avere un formato valido."]}}}
+[2023/02/17 10:36:39] INFO - Creazione Fattura: 61151
+[2023/02/17 10:36:44] INFO - Fattura creata: #836/R/2023
+[2023/02/17 10:36:45] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 10:46:10] INFO - Creazione Fattura: 61152
+[2023/02/17 10:46:14] INFO - Fattura creata: #837/R/2023
+[2023/02/17 10:46:14] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/17 11:04:30] INFO - Creazione Fattura: 61153
+[2023/02/17 11:04:34] INFO - Fattura creata: #873/F/2023

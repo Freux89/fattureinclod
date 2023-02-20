@@ -1,0 +1,155 @@
+[2023/02/11 11:12:43] INFO - Creazione Fattura: 60873
+[2023/02/11 11:12:44] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 11:12:45] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 11:12:45] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 11:12:47] INFO - Fattura creata: #724/F/2023
+[2023/02/11 11:12:47] ERROR - Verifica XML fallita: {"error":{"message":"Validation XML","validation_result":{"xml_errors":["Nell'intestazione del documento, il campo CodiceDestinatario (Codice destinatario) non \u00e8 nel formato valido"]}}}
+[2023/02/11 11:16:19] INFO - Creazione Fattura: 60874
+[2023/02/11 11:16:20] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 11:16:21] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 11:16:21] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 11:16:23] INFO - Fattura creata: #725/F/2023
+[2023/02/11 12:09:51] INFO - Creazione Fattura: 60875
+[2023/02/11 12:09:52] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 12:09:52] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 12:09:53] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 12:09:55] INFO - Fattura creata: #696/R/2023
+[2023/02/11 12:09:55] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 01:21:45] INFO - Creazione Fattura: 60876
+[2023/02/11 01:21:46] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 01:21:46] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 01:21:47] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 01:21:49] INFO - Fattura creata: #697/R/2023
+[2023/02/11 01:21:50] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 02:02:44] INFO - Creazione Fattura: 60877
+[2023/02/11 02:02:45] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:02:46] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:02:46] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:02:48] INFO - Fattura creata: #726/F/2023
+[2023/02/11 02:22:17] INFO - Creazione Fattura: 60878
+[2023/02/11 02:22:19] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:22:19] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:22:19] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:22:22] INFO - Fattura creata: #698/R/2023
+[2023/02/11 02:22:22] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 02:25:13] INFO - Creazione Fattura: 60879
+[2023/02/11 02:25:14] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:25:14] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:25:14] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:25:16] INFO - Fattura creata: #727/F/2023
+[2023/02/11 02:30:22] INFO - Creazione Fattura: 60880
+[2023/02/11 02:30:23] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:30:24] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:30:24] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:30:26] INFO - Fattura creata: #699/R/2023
+[2023/02/11 02:30:26] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 02:45:26] INFO - Creazione Fattura: 60881
+[2023/02/11 02:45:27] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:45:27] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:45:27] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 02:45:29] INFO - Fattura creata: #700/R/2023
+[2023/02/11 02:45:29] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 03:36:29] INFO - Creazione Fattura: 60883
+[2023/02/11 03:36:30] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 03:36:31] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 03:36:31] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 03:36:33] INFO - Fattura creata: #728/F/2023
+[2023/02/11 03:44:18] INFO - Creazione Fattura: 60884
+[2023/02/11 03:44:19] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 03:44:20] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 03:44:20] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 03:44:23] INFO - Fattura creata: #701/R/2023
+[2023/02/11 03:44:23] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 04:15:50] INFO - Creazione Fattura: 60885
+[2023/02/11 04:15:51] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 04:15:52] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 04:15:52] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 04:15:55] INFO - Fattura creata: #702/R/2023
+[2023/02/11 04:15:55] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 05:11:00] INFO - Creazione Fattura: 60886
+[2023/02/11 05:11:01] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:11:01] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:11:02] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:11:04] INFO - Fattura creata: #703/R/2023
+[2023/02/11 05:11:05] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 05:11:54] INFO - Creazione Fattura: 60887
+[2023/02/11 05:11:55] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:11:55] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:11:55] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:11:57] INFO - Fattura creata: #729/F/2023
+[2023/02/11 05:48:43] INFO - Creazione Fattura: 60888
+[2023/02/11 05:48:45] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:48:45] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:48:45] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:48:48] INFO - Fattura creata: #704/R/2023
+[2023/02/11 05:48:48] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 05:52:52] INFO - Creazione Fattura: 60889
+[2023/02/11 05:52:53] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:52:54] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:52:54] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 05:52:56] INFO - Fattura creata: #705/R/2023
+[2023/02/11 05:52:56] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 06:06:47] INFO - Creazione Fattura: 60890
+[2023/02/11 06:06:48] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:06:48] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:06:49] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:06:51] INFO - Fattura creata: #706/R/2023
+[2023/02/11 06:06:51] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 06:36:42] INFO - Creazione Fattura: 60891
+[2023/02/11 06:36:43] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:36:43] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:36:44] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:36:46] INFO - Fattura creata: #707/R/2023
+[2023/02/11 06:36:47] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 06:43:03] INFO - Creazione Fattura: 60893
+[2023/02/11 06:43:05] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:43:05] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:43:05] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:43:07] INFO - Fattura creata: #730/F/2023
+[2023/02/11 06:48:11] INFO - Creazione Fattura: 60894
+[2023/02/11 06:48:12] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:48:12] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:48:13] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 06:48:15] INFO - Fattura creata: #708/R/2023
+[2023/02/11 06:48:15] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 07:38:09] INFO - Creazione Fattura: 60895
+[2023/02/11 07:38:11] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 07:38:11] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 07:38:12] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 07:38:14] INFO - Fattura creata: #709/R/2023
+[2023/02/11 07:38:15] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 07:58:57] INFO - Creazione Fattura: 60896
+[2023/02/11 07:58:58] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 07:58:58] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 07:58:59] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 07:59:02] INFO - Fattura creata: #710/R/2023
+[2023/02/11 07:59:02] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 08:28:28] INFO - Creazione Fattura: 60897
+[2023/02/11 08:28:29] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 08:28:29] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 08:28:30] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 08:28:32] INFO - Fattura creata: #711/R/2023
+[2023/02/11 08:28:32] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 09:17:05] INFO - Creazione Fattura: 60899
+[2023/02/11 09:17:06] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:17:07] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:17:07] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:17:09] INFO - Fattura creata: #731/F/2023
+[2023/02/11 09:18:15] INFO - Creazione Fattura: 60900
+[2023/02/11 09:18:16] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:18:17] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:18:17] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:18:19] INFO - Fattura creata: #712/R/2023
+[2023/02/11 09:18:19] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 09:47:00] INFO - Creazione Fattura: 60901
+[2023/02/11 09:47:02] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:47:02] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:47:03] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 09:47:05] INFO - Fattura creata: #713/R/2023
+[2023/02/11 09:47:05] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/11 10:31:43] INFO - Creazione Fattura: 60902
+[2023/02/11 10:31:44] ERROR - Ricerca cliente per codice fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 10:31:45] ERROR - Ricerca cliente fallita: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 10:31:45] ERROR - Cliente non creato: {"error":{"message":"No permission.","code":"NO_PERMISSION"}}
+[2023/02/11 10:31:48] INFO - Fattura creata: #714/R/2023
+[2023/02/11 10:31:48] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}

@@ -1,0 +1,57 @@
+[2023/02/19 01:51:04] INFO - Creazione Fattura: 61169
+[2023/02/19 01:51:13] INFO - Fattura creata: #880/F/2023
+[2023/02/19 01:51:13] ERROR - Verifica XML fallita: {"error":{"message":"Validation step 1","validation_result":{"xml_errors":["Stai provando a inviare una fattura con data odierna, tuttavia il Sistema di Interscambio considera le prime ore della notte del giorno corrente appartenenti al giorno precedente, pertanto scarterebbe il documento per \"data successiva alla data corrente\". Ti preghiamo di tentare l'invio domani mattina o dopo le 2 di notte o di cambiare la data del documento."]}}}
+[2023/02/19 04:05:20] INFO - Creazione Fattura: 61170
+[2023/02/19 04:05:27] INFO - Fattura creata: #881/F/2023
+[2023/02/19 09:36:18] INFO - Creazione Fattura: 61171
+[2023/02/19 09:36:25] INFO - Fattura creata: #847/R/2023
+[2023/02/19 09:36:26] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 10:31:08] INFO - Creazione Fattura: 61172
+[2023/02/19 10:31:14] INFO - Fattura creata: #848/R/2023
+[2023/02/19 10:31:15] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 10:39:56] INFO - Creazione Fattura: 61173
+[2023/02/19 10:40:01] INFO - Fattura creata: #849/R/2023
+[2023/02/19 10:40:01] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 11:29:06] INFO - Creazione Fattura: 61174
+[2023/02/19 11:29:12] INFO - Fattura creata: #850/R/2023
+[2023/02/19 11:29:12] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 11:49:22] INFO - Creazione Fattura: 61175
+[2023/02/19 11:49:27] INFO - Fattura creata: #882/F/2023
+[2023/02/19 02:32:37] INFO - Creazione Fattura: 61177
+[2023/02/19 02:32:43] INFO - Fattura creata: #851/R/2023
+[2023/02/19 02:32:43] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 03:10:55] INFO - Creazione Fattura: 61178
+[2023/02/19 03:11:01] INFO - Fattura creata: #883/F/2023
+[2023/02/19 03:11:01] ERROR - Verifica XML fallita: {"error":{"message":"Validation step 1","validation_result":{"xml_errors":["L'indirizzo PEC deve avere un formato valido."]}}}
+[2023/02/19 03:28:10] INFO - Creazione Fattura: 61179
+[2023/02/19 03:28:15] INFO - Fattura creata: #852/R/2023
+[2023/02/19 03:28:16] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 03:46:31] INFO - Creazione Fattura: 61180
+[2023/02/19 03:46:36] INFO - Fattura creata: #884/F/2023
+[2023/02/19 04:32:03] INFO - Creazione Fattura: 61182
+[2023/02/19 04:32:09] INFO - Fattura creata: #853/R/2023
+[2023/02/19 04:32:09] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 04:55:06] INFO - Creazione Fattura: 61183
+[2023/02/19 04:55:11] INFO - Fattura creata: #854/R/2023
+[2023/02/19 04:55:12] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 06:35:27] INFO - Creazione Fattura: 61184
+[2023/02/19 06:35:33] INFO - Fattura creata: #855/R/2023
+[2023/02/19 06:35:33] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 06:37:09] INFO - Creazione Fattura: 61186
+[2023/02/19 06:37:13] INFO - Fattura creata: #856/R/2023
+[2023/02/19 06:37:13] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 07:42:07] INFO - Creazione Fattura: 61187
+[2023/02/19 07:42:14] INFO - Fattura creata: #857/R/2023
+[2023/02/19 07:42:14] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 08:27:02] INFO - Creazione Fattura: 61188
+[2023/02/19 08:27:08] INFO - Fattura creata: #858/R/2023
+[2023/02/19 08:27:09] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 08:39:19] INFO - Creazione Fattura: 61189
+[2023/02/19 08:39:25] INFO - Fattura creata: #859/R/2023
+[2023/02/19 08:39:25] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 10:35:24] INFO - Creazione Fattura: 61190
+[2023/02/19 10:35:30] INFO - Fattura creata: #860/R/2023
+[2023/02/19 10:35:30] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
+[2023/02/19 10:50:19] INFO - Creazione Fattura: 61191
+[2023/02/19 10:50:25] INFO - Fattura creata: #861/R/2023
+[2023/02/19 10:50:25] ERROR - Verifica XML fallita: {"error":{"message":"Il documento non \u00e8 una fattura elettronica.","validation_result":null}}
